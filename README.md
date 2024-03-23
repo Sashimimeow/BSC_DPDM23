@@ -10,16 +10,15 @@ https://www.google.com/url?q=https://github.com/Sashimimeow/BSC_DPDM23&sa=D&sour
 - GitHub 5%
 Final Score = Score * %attendence
 
-#All code 
+# All code 
 
 Understanding Data : 
 Data Preprocessing :
 Dimensionality Reduction PCA : 
 Frequent Patterns : 
 Classification : 
-#Home Work 
-
-HW1 Frequent set item set and Association rules 💰
+# Home Work 
+HW1 Frequent set item set and Association rules 
 
 สมาชิก กลุ่มหนูน้อยหอยนางรม
 
@@ -29,7 +28,7 @@ HW1 Frequent set item set and Association rules 💰
 4.นางสาววิลันดา ทาระมาตย์ รหัสนักศึกษา 643021271-2 
 PRESENTATION : Click to go to PRESENTATION
 Code : 
-#HW2 Decision Tree 
+# HW2 Decision Tree 
 
 นางสาววริศรา ปันลา รหัสนักศึกษา 643020519-7
 HW2 : 
