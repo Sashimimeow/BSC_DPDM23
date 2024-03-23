@@ -12,13 +12,13 @@ Final Score = Score * %attendence
 
 # All code 
 
-Understanding Data : 
-Data Preprocessing :
-Dimensionality Reduction PCA : 
-Frequent Patterns : 
-Classification : 
+- Understanding Data : 
+- Data Preprocessing :
+- Dimensionality Reduction PCA : 
+- Frequent Patterns : 
+- Classification : 
 # Home Work 
-HW1 Frequent set item set and Association rules 
+- HW1 Frequent set item set and Association rules 
 
 สมาชิก กลุ่มหนูน้อยหอยนางรม
 
@@ -27,12 +27,15 @@ HW1 Frequent set item set and Association rules
 3.นางสาวอนัญญา พูลสวัสดิ์ รหัสนักศึกษา 643020526-0
 4.นางสาววิลันดา ทาระมาตย์ รหัสนักศึกษา 643021271-2 
 PRESENTATION : Click to go to PRESENTATION
+![image](https://github.com/Sashimimeow/BSC_DPDM23/assets/137043734/df9b1a2d-2fe7-4d2c-8738-d492396a269d)
+
 Code : 
 # HW2 Decision Tree 
 
 นางสาววริศรา ปันลา รหัสนักศึกษา 643020519-7
 HW2 : 
 HW3 Decision Tree Classifier Parameters is Spitter and Min samples split 
+![image](https://github.com/Sashimimeow/BSC_DPDM23/assets/137043734/938c7857-6fd4-4750-a49b-52ce04b3948c)
 
 สมาชิกกลุ่ม NMN & หนูน้อยหอยนางรม
 
