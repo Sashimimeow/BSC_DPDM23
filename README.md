@@ -1,6 +1,6 @@
 # BSC_DPDM23
 Data Preparation and Data Mining 
-
+https://www.google.com/url?q=https://github.com/Sashimimeow/BSC_DPDM23&sa=D&source=editors&ust=1711214499848586&usg=AOvVaw0EqDd4whY-GKOGBm7v-rS5
 # Score
 - Midterm (data prepocessing ปฏิบัติ (เดี่ยว)) 20%
 - Final (ทฤษฎี data mining เดี่ยว) 20%
