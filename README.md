@@ -10,13 +10,7 @@ https://www.google.com/url?q=https://github.com/Sashimimeow/BSC_DPDM23&sa=D&sour
 - GitHub 5%
 Final Score = Score * %attendence
 
-# All code 
 
-- Understanding Data : 
-- Data Preprocessing :
-- Dimensionality Reduction PCA : 
-- Frequent Patterns : 
-- Classification : 
 # Home Work 
 - HW1 Frequent set item set and Association rules 
 
@@ -29,11 +23,9 @@ Final Score = Score * %attendence
 - PRESENTATION : Click to go to PRESENTATION
 ![image](https://github.com/Sashimimeow/BSC_DPDM23/assets/137043734/df9b1a2d-2fe7-4d2c-8738-d492396a269d)
 
-Code : 
-# HW2 Decision Tree 
 
 - นางสาววริศรา ปันลา รหัสนักศึกษา 643020519-7
-- HW2 : 
+   
 - HW3 Decision Tree Classifier Parameters is Spitter and Min samples split 
 ![image](https://github.com/Sashimimeow/BSC_DPDM23/assets/137043734/938c7857-6fd4-4750-a49b-52ce04b3948c)
 
@@ -46,9 +38,7 @@ Code :
 - 5.นางสาววริศรา ปันลา รหัสนักศึกษา 643020519-7
 - 6.นางสาวอนัญญา พูลสวัสดิ์ รหัสนักศึกษา 643020526-0
 - 7.นางสาววิลันดา ทาระมาตย์ รหัสนักศึกษา 643021271-2 
-- PRESENTATION : 
-- Code : 
-- HW4 Parameters is Spitter and Min samples split ทำมือ 🌱
+- HW4 Parameters is Spitter and Min samples split 
 ![image](https://github.com/Sashimimeow/BSC_DPDM23/assets/137043734/18a0fada-1feb-4573-9b24-6d01bab63799)
 
 - สมาชิกกลุ่ม NMN & หนูน้อยหอยนางรม
@@ -60,11 +50,9 @@ Code :
 - 5.นางสาววริศรา ปันลา รหัสนักศึกษา 643020519-7
 - 6.นางสาวอนัญญา พูลสวัสดิ์ รหัสนักศึกษา 643020526-0
 - 7.นางสาววิลันดา ทาระมาตย์ รหัสนักศึกษา 643021271-2 
-- HW4 : 
-- PRESENTATION : 
-- HW5 Proceptron 
+ 
 
-- นางสาววริศรา ปันลา รหัสนักศึกษา 643020519-7
+
 - HW5 : 
 - MIDTERM PROJECT 
 ![image](https://github.com/Sashimimeow/BSC_DPDM23/assets/137043734/82deae7a-cd34-4b10-805b-829ecdbb92c1)
